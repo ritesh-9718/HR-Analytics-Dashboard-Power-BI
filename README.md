@@ -10,9 +10,6 @@ The dashboard helps HR teams and management make data-driven decisions related t
   - Evaluate job satisfaction levels across different job roles
   - Provide an interactive HR dashboard for quick decision-making
 
-## Dataset
-link - 
-
 ## Tools & Technologies Used
 
   -  Power BI Desktop
